@@ -1,0 +1,56 @@
+#box1{
+    height: 70px;
+   font-size: 70px; 
+ margin-top: 80px;
+padding-left: 30px;
+width: 28.8ex;
+border-top-right-radius: 50px;
+border-top-left-radius: 50px;
+background-color: rgb(255, 105, 223);
+color: black;
+margin-left: 16ex;
+
+}
+
+
+#box2{
+height: 80ex;
+width: 130ex;
+background-color: black;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+margin-left: 70ex;
+}
+button{
+    margin-left: 50px;
+    margin-top: 50px;
+height: 80px;
+width: 80px;
+border-radius: 50%;
+margin-right: 40px;
+background-color: rgb(87, 87, 98);
+border-color: rgb(255, 189, 7);
+font-size:40px;
+
+}
+#head{
+    display: inline-block;
+margin-left: 24ex;
+font-size: 60px;
+color: white;
+}
+#col
+{display: inline-block;
+    height: 30px;
+    width: 170px;
+    font-size: larger;
+    border: 30px black ;
+    border-width: 10px;
+    background-color: rgb(159, 227, 75);
+    text-align: center;
+}
+body{
+    background-image: url("image/back-school-decoration-with-pencils-calculator-space_23-2147662344.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
